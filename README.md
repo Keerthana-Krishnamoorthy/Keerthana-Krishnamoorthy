@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<p align="center">This's Keerthana an enthusiastic Java Full stack Developer from India !</p>
+<p align="center">This's Keerthana an enthusiastic Full stack Developer from India !</p>
 
 ###
 <div align="center">
@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning j2ee .<br>🎯 Goals: Become an expert in a domain & to level-up myself .<br>🎲 Fun fact: I'm a Programmer ; I can't fix Idiots .</p>
+<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ... .<br>🎯 Goals: Become an expert in a domain & to level-up myself .<br>🎲 Fun fact: Talent is like electricity ,we don't understand electricity ,we use it.</p>
 
 ###
 
